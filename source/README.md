@@ -1,6 +1,8 @@
 # Star Weebs
 
-Replaces ship hull art with anime-girl (kanmusu-style) alternatives.
+This gives ships curves
+
+Replaces ship hull art with anime girl (kanmusu-style) alternatives.
 
 Currently covers:
 
