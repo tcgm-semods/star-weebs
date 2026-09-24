@@ -1,0 +1,22 @@
+{
+    "schema": 1,
+    "format": "star-empire-mod",
+    "mod_id": "star-weebs",
+    "name": "Star Weebs",
+    "version": "0.1.0",
+    "author": "wkthedev",
+    "description": "Replaces ship hull art with anime-girl (kanmusu-style) alternatives. Currently covers: 250Capital, 250Carrier, 250CombatFreighter2.",
+    "loader_api": 2,
+    "entrypoint": "star_weebs.main:apply",
+    "files": [
+        "mod/star_weebs/README.md",
+        "mod/star_weebs/images/250Capital.png",
+        "mod/star_weebs/images/250Carrier.png",
+        "mod/star_weebs/images/250CombatFreighter2.png",
+        "mod/star_weebs/main.py"
+    ],
+    "dependencies": [],
+    "conflicts": [],
+    "load_after": [],
+    "permissions": []
+}
